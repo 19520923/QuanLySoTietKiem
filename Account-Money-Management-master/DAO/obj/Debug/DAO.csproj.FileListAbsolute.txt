@@ -1,0 +1,27 @@
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\bin\Debug\daos.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\bin\Debug\daos.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\bin\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\bin\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\obj\Debug\DAO.csproj.CopyComplete
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\obj\Debug\daos.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\daos\obj\Debug\daos.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\bin\Debug\DAO.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\bin\Debug\DAO.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\bin\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\bin\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\obj\Debug\DAO.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DAO\obj\Debug\DAO.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\bin\Debug\DAO.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\bin\Debug\DAO.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\bin\Debug\cccc.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\bin\Debug\cccc.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\obj\Debug\DAO.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\DAO\obj\Debug\DAO.pdb

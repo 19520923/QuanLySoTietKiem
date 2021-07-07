@@ -1,0 +1,12 @@
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\cccc\bin\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\cccc\bin\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\cccc\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\cccc\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\cccc\obj\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\cccc\obj\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DTO\bin\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DTO\bin\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DTO\obj\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\DTO\obj\Debug\cccc.pdb

@@ -1,0 +1,93 @@
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.exe.config
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.exe
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\Bunifu_UI_v1.52.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\daos.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\Guna.UI.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\sss.dll
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\daos.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\sss.pdb
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCao.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCaoNgay.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCaoThang.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieu.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieuGui.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieuRut.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapSoTietKiem.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormMain.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThayDoiQuyDinh.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThongTin.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThongTinKhachHang.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormTraCuuSo.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.LoginForm.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.Properties.Resources.resources
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csproj.CopyComplete
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.exe
+F:\UIT\NhapMonCongNghePhanMem\DoAn\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCao.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCaoNgay.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCaoThang.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieu.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieuGui.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieuRut.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapSoTietKiem.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormMain.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThayDoiQuyDinh.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThongTin.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThongTinKhachHang.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormTraCuuSo.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.LoginForm.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.Properties.Resources.resources
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.exe
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.exe.config
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.exe
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\Bunifu_UI_v1.52.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\BUS.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\cccc.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\DAO.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\Guna.UI.dll
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\BUS.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\DAO.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\bin\Debug\cccc.pdb
+F:\UIT\NhapMonCongNghePhanMem\QuanLySoTietKiem\QuanLySoTietKiem\obj\Debug\GUI.csproj.CopyComplete
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.exe.config
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.exe
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\QuanLySoTietKiem.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\Bunifu_UI_v1.52.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\BUS.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\cccc.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\DAO.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\Guna.UI.dll
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\BUS.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\DAO.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\bin\Debug\cccc.pdb
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCao.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCaoNgay.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormBaoCaoThang.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieu.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieuGui.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapPhieuRut.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormLapSoTietKiem.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormMain.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThayDoiQuyDinh.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThongTin.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormThongTinKhachHang.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.FormTraCuuSo.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.LoginForm.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.Properties.Resources.resources
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\GUI.csproj.CopyComplete
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.exe
+D:\NguyenNhutTan\Nhập môn công nghệ phần mềm\Account-Money-Management-master\Account-Money-Management-master\QuanLySoTietKiem\obj\Debug\QuanLySoTietKiem.pdb
